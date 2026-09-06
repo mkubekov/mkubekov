@@ -22,9 +22,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**performance_tests**](https://github.com/Clorhexidinum/performance_tests) [![CI](https://github.com/Clorhexidinum/performance_tests/actions/workflows/ci.yml/badge.svg)](https://github.com/Clorhexidinum/performance_tests/actions/workflows/ci.yml) | Load-testing template on Locust for **HTTP, gRPC and Kafka**: typed clients that report every request the same way, reusable load profiles (constant RPS, ramp, spike, step), mocks, Docker Compose with Kafka, Prometheus and Grafana, GitLab CI and GitHub Actions, 50+ unit tests. | Python 3.12 · Locust · httpx · grpcio / protobuf · confluent-kafka · pydantic · Docker · Grafana |
+| [**performance_tests**](https://github.com/Clorhexidinum/performance_tests) [![CI](https://github.com/mkubekov/performance_tests/actions/workflows/ci.yml/badge.svg)](https://github.com/mkubekov/performance_tests/actions/workflows/ci.yml) | Load-testing template on Locust for **HTTP, gRPC and Kafka**: typed clients that report every request the same way, reusable load profiles (constant RPS, ramp, spike, step), mocks, Docker Compose with Kafka, Prometheus and Grafana, GitLab CI and GitHub Actions, 50+ unit tests. | Python 3.12 · Locust · httpx · grpcio / protobuf · confluent-kafka · pydantic · Docker · Grafana |
 
-Earlier repositories ([qa_guru_oop](https://github.com/Clorhexidinum/qa_guru_oop), [qa_guru_mobile](https://github.com/Clorhexidinum/qa_guru_mobile)) are 2023 course work on Selene, Appium, Selenoid, Jenkins and Allure; they are being refreshed.
+Earlier repositories ([qa_guru_oop](https://github.com/mkubekov/qa_guru_oop), [qa_guru_mobile](https://github.com/mkubekov/qa_guru_mobile)) are 2023 course work on Selene, Appium, Selenoid, Jenkins and Allure; they are being refreshed.
 
 ## Tech stack
 
