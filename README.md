@@ -52,5 +52,5 @@ Earlier repositories ([qa_guru_oop](https://github.com/mkubekov/qa_guru_oop), [q
 
 ## Contact
 
-Open to remote Test Automation / SDET roles (UTC+7, B2B contracts welcome).
+Open to remote Test Automation / SDET roles (B2B contracts welcome).
 Telegram [@aqapro](https://t.me/aqapro) · [mkubekov@gmail.com](mailto:mkubekov@gmail.com)
